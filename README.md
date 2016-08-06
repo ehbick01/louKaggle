@@ -5,4 +5,9 @@ part of [Louisville.io](http://louisville.io)
 
 #### ok, so this effort is focused on [this kaggle competition](https://www.kaggle.com/c/talkingdata-mobile-user-demographics)
 
+the objective:
+
+> In this competition, you are going to predict the demographics of a user (gender and age) based on their app download and usage behaviors. 
+
+[the data](https://www.kaggle.com/c/talkingdata-mobile-user-demographics/data)
 
