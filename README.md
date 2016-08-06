@@ -2,3 +2,7 @@
 #Louisville Kaggle Group!
 
 part of [Louisville.io](http://louisville.io)
+
+#### ok, so this effort is focused on [this kaggle competition](https://www.kaggle.com/c/talkingdata-mobile-user-demographics)
+
+
