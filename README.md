@@ -17,4 +17,6 @@ so...let's get our analytics / ML / stats juices flowing and give this thing a g
 the data, the data.  the raw format (schema):
 ![alt text](http://i.imgur.com/0pdOz4e.png "the data")
 
+#### holy crap!  this isn't the type of data i saw in all those ML tutorials!
+
 
