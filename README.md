@@ -12,3 +12,9 @@ the objective:
 
 [the data](https://www.kaggle.com/c/talkingdata-mobile-user-demographics/data)
 
+so...let's get our analytics / ML / stats juices flowing and give this thing a go!
+
+the data, the data.  the raw format (schema).
+![the data](http://imgur.com/a/dbAEh)
+
+
