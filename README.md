@@ -15,6 +15,6 @@ the objective:
 so...let's get our analytics / ML / stats juices flowing and give this thing a go!
 
 the data, the data.  the raw format (schema):
-![alt text](http://imgur.com/a/dbAEh "the data")
+![alt text](http://imgur.com/0pdOz4e "the data")
 
 
